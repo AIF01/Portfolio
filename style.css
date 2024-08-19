@@ -87,17 +87,11 @@ footer{
     float: right;
 }
 @media screen and (max-width:900px){
-    body{
-        font-size: 14px;
-    }
     .main{
         width: 90%;
     }
 }
 @media screen and (max-width:500px){
-    body{
-        font-size: 12px;
-    }
     .logo{
         width: 30%;
     }
