@@ -3,8 +3,11 @@ body{
     margin: 0;
     box-sizing: border-box;
     background-color: rgb(9, 10, 12);
-    color: rgba(255, 255, 255, 0.350);
-    font-family: 'Papyrus', cursive; 
+    color: rgba(255, 255, 255, 0.600);
+    font-family:  "Rajdhani", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
 }
 .main{
     width: 80%;
