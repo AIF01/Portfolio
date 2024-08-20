@@ -39,7 +39,7 @@ img{
 }
 i{
     font-size: 20px;
-    color: rgba(100, 255, 230, 0.963);
+    color: rgba(100, 255, 230, 0.960);
 }
 i:hover{
     color: rgba(100, 255, 229, 0.484);
@@ -60,16 +60,19 @@ a:hover{
     margin-right: 50px;
 }
 #name{
-    color: rgba(100, 255, 230, 0.963);
+    color: rgba(100, 255, 230, 0.960);
 }
 #name::first-letter{
-    font-size: 2em;
+    font-size: 3em;
 }
 h1{
     font-size: 3em;
     margin: 10px 0 40px;
     color: rgba(255, 255, 255, 0.800);
     /* line-height: 60px; */
+}
+#contact-me{
+    color: rgba(100, 255, 230, 0.960);
 }
 .right{
     margin-left: 50px;
